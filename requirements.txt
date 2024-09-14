@@ -1,0 +1,13 @@
+torch
+torchvision
+numpy
+pandas
+matplotlib
+plotly
+seaborn
+tqdm
+dataset
+Pillow
+ipykernel
+albumentations
+model

@@ -1,0 +1,7 @@
+carvana-image-masking-challenge/*
+prediction/*
+saved_images/*
+!carvana-image-masking-challenge/.gitkeep
+!prediction/.gitkeep
+!saved_images/.gitkeep
+my_checkpoint.pth.tar
