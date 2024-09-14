@@ -1,7 +1,8 @@
 carvana-image-masking-challenge/*
 prediction/*
 saved_images/*
-!carvana-image-masking-challenge/.gitkeep
-!prediction/.gitkeep
-!saved_images/.gitkeep
+# But keep the directories themselves (make sure to include a placeholder file)
+!carvana-image-masking-challenge/.keep
+!prediction/.keep
+!saved_images/.keep
 my_checkpoint.pth.tar
